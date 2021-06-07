@@ -1,11 +1,11 @@
 # oss_final
 ***   
 ## 1. What does this project do?   
-   *Youtube-dl is a software that downloads videos from YouTube.*
+   - Youtube-dl is a software that downloads videos from YouTube.
 ***   
 ## 2. Why is this project useful?  
-   *Youtube-dl is very easy to use.  
-   In general, we cannot download YouTube premium content, but if we use Youtube-dl, we can easily download YouTube premium videos with only url.*
+   - Youtube-dl is very easy to use.  
+   - In general, we cannot download YouTube premium content, but if we use Youtube-dl, we can easily download YouTube premium videos with only url.
 ***   
 ## 3. How do I get started?
    1) Prepare your own raspberry pi.   
@@ -19,11 +19,11 @@
       **```youtube-dl -f 137+140 --merge-output-format mp4 (Youtube url)```**  
 ***      
 ## 4. Where can I get more help, if I need it?   
-   https://youtube-dl.org/  
-   https://github.com/ytdl-org/youtube-dl 
+   * https://youtube-dl.org/  
+   * https://github.com/ytdl-org/youtube-dl 
 ***      
 ## 5. Presentation Video (YouTube) Link  
-   https://youtu.be/IEh9jmGw6gQ  
+   * https://youtu.be/IEh9jmGw6gQ  
 ***      
 ## 6. What your contribution to your project is  
-   *add html file to play the downloaded video*
+   * add html file to play the downloaded video
