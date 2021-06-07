@@ -11,11 +11,11 @@
    1) Prepare your own raspberry pi. 
    2) Clone this repository on your raspberry pi.
       (https://github.com/zishon89us/node-cheat.git)
-   3) Install library like following.
+   3) Install library like following.\n
       **npm install youtube-dl**
-   4) Input the following command. 
+   4) Input the following command. \n
       **youtube-dl -F (Youtube url)**
-   5) Input the following command.
+   5) Input the following command.\n
       **youtube-dl -f 137+140 --merge-output-format mp4 (Youtube url)**
       
 4. Where can I get more help, if I need it? 
